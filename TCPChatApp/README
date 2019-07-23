@@ -1,0 +1,4 @@
+To start app, run 'python3' or 'python' (doesn't matter which is set on your
+machine as long as a version of python 3.x is run), followed by 'TCPServer.py' in the
+command line. To connect to the server as a user, run 'python3/python TCPClient.py'
+to create a new user and join the chat.
